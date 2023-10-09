@@ -1,4 +1,4 @@
-# MongoDb Generic Repository2
+# MongoDb Generic Repository
 
 An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
 
