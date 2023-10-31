@@ -13,7 +13,7 @@ The MongoDbGenericRepository is also used in [AspNetCore.Identity.MongoDbCore](h
 
 If you have found this project helpful, either as a library that you use or as a learning tool, please consider buying Alex a coffee: <a href="https://www.buymeacoffee.com/zeitquest" target="_blank"><img height="40px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="max-height: 51px;width: 150px !important;" ></a>
 
-# Worth Knowingррр
+# Worth Knowing
 
 This package sets the `MongoDefaults.GuidRepresentation` to `MongoDB.Bson.GuidRepresentation.Standard` by default, instead of the default driver setting of `MongoDB.Bson.GuidRepresentation.CSharpLegacy`. This can cause issues if you have been using the driver on an existing application previously or if you are using CosmosDB.
 
